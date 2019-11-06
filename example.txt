@@ -1,2 +1,10 @@
 test project
 test project
+
+This is for testing ...
+Command to update git localy and remote git
+add or edit a file 
+1.git status
+2.git add .
+3.git commit -m "reason"
+4. git push origin master
